@@ -1,8 +1,7 @@
-# pyenc
-r<h1>AssalamuAlaikum</h1>
+<h1>AssalamuAlaikum</h1>
 <p>This Is Muhammad Hamza Here</p>
 <h1>Description</h1>
-<p>By this tool you can encrypt/hide your codes from the eyes of copycats. This tool is compatible with Termux and Linux</p>
+<p>By this tool you can encrypt/hide your codes from the eyes of copycats. This tool is compatible with Termux </p>
 <h1>How To Use</h1>
 <p>Simply ! Type These Below Commands In Terminal </p>
 <ul>
